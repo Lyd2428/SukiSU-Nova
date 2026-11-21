@@ -13,7 +13,7 @@ on:
       ddk_release:
         description: 'DDK release version'
         required: false
-        default: '20260828'
+        default: '20260313'
         type: string
       package_name:
         description: 'package name of manager'
